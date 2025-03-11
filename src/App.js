@@ -1,7 +1,7 @@
 
 import './App.css';
-import Article1 from './components/Article1';
-import Article2 from './components/Article2';
+import Article1 from './components/Article1.js';
+import Article2 from './components/Article2.js';
 import Article3 from './components/Article3.js';
 import Article4 from './components/Article4.js';
 
